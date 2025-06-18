@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 #  Sistem Manajemen Siswa - Suzuran High School
 
 Sistem manajemen siswa berbasis **Python** untuk **Suzuran High School** yang memungkinkan guru dan siswa mengakses informasi akademik.
